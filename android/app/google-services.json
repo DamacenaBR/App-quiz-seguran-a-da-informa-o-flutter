@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "262528290533",
+    "project_id": "quiz-seguranca",
+    "storage_bucket": "quiz-seguranca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262528290533:android:ee84998f2e0edc91d98e0c",
+        "android_client_info": {
+          "package_name": "edu.fafic.bruno.app_quiz_seguranca"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262528290533-dd2cebh0isv9sbncmuh7148ni1qsm5th.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.fafic.bruno.app_quiz_seguranca",
+            "certificate_hash": "c5a92f5a2c5991eabd20deb39e78f5045c14caa6"
+          }
+        },
+        {
+          "client_id": "262528290533-qcqievj4i3gj2qd9drbndljpcue2vtmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnczBMKYzQARny7Hl_jTrv0UB81jMk9II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262528290533-qcqievj4i3gj2qd9drbndljpcue2vtmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
